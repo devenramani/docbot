@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docBot", "docBot\docBot.csproj", "{D592FC40-AD62-41A1-935E-05B67ED5765B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docBot", "docBot\docBot.csproj", "{C92D5501-BC50-49CA-A771-6F8CA91B49DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D592FC40-AD62-41A1-935E-05B67ED5765B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D592FC40-AD62-41A1-935E-05B67ED5765B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D592FC40-AD62-41A1-935E-05B67ED5765B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D592FC40-AD62-41A1-935E-05B67ED5765B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92D5501-BC50-49CA-A771-6F8CA91B49DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92D5501-BC50-49CA-A771-6F8CA91B49DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92D5501-BC50-49CA-A771-6F8CA91B49DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92D5501-BC50-49CA-A771-6F8CA91B49DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E90AB87B-C21A-4160-88E9-0F9AEC45F4E8}
+		SolutionGuid = {399D93C0-6509-481C-86C2-BA2D8C3ECC96}
 	EndGlobalSection
 EndGlobal
