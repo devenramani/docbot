@@ -8,6 +8,14 @@
       "appId": "",
       "appPassword": "",
       "id": "1"
+    },
+    {
+      "type": "endpoint",
+      "name": "production",
+      "endpoint": "http://aidocbot.azurewebsites.net/api/messages",
+      "appId": "48573e4c-bded-41d6-b572-274486258cdf",
+      "appPassword": "Uy_6q[gbrH}tEi29EN(ptgiO?l3BXS",
+      "id": "2"
     }
   ],
   "padlock": "",

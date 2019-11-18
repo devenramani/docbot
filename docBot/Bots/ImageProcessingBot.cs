@@ -179,7 +179,7 @@ namespace docBot.Bots
                 Buttons = new List<CardAction>()
                 {
                     new CardAction {Text = "Process Image", Value = "ProcessImage", Title = "ProcessImage", DisplayText = "Process Image", Type = ActionTypes.ImBack},
-                    new CardAction {Text = "Get Thumbnail", Value = "GetThumbnail", Title = "GetThumbnail", DisplayText = "Get Thumbnail", Type = ActionTypes.ImBack},
+                   // new CardAction {Text = "Get Thumbnail", Value = "GetThumbnail", Title = "GetThumbnail", DisplayText = "Get Thumbnail", Type = ActionTypes.ImBack},
                     new CardAction {Text = "Extract Printed Text", Value = "printedtext", Title = "Extract Printed Text", DisplayText = "Extract Printed Text", Type = ActionTypes.ImBack},
                     new CardAction {Text = "Extract Hand Written Text", Value = "handwrittentext", Title = "Extract Hand Written Text", DisplayText = "Extract Hand Written Text", Type = ActionTypes.ImBack}
 
